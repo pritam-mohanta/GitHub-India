@@ -86,8 +86,7 @@ After extracting insights using SQL, the dataset was connected to **Power BI** f
 🔹 **Visuals:**  
 ✔ **Contribution trend over time**  
 ✔ **Users with the highest contributions**  
- 
-![User Contribution Analysis](Assets/User Contribution Analysis.png)
+
 ---
 
 ### 📍 **Dashboard 2: Engagement & Popularity Analysis**  
@@ -102,7 +101,6 @@ After extracting insights using SQL, the dataset was connected to **Power BI** f
 ✔ **Top users by followers**  
 ✔ **Growth trend of repository creation**  
 
-![Popularity Analysis](Assets/Popularity_Analysis.png)
 ---
 
 ### 📍 **Dashboard 3: Programming Language-Centric Analysis**  
@@ -117,7 +115,6 @@ After extracting insights using SQL, the dataset was connected to **Power BI** f
 ✔ **A world map** of user locations  
 ✔ **Trend Analysis** of programming language adoption over the years   
 
-![Programming Language Analysis](Assets/Programming_Language_Analysis.png)
 ---
 
 ## 🎯 Key Takeaways  
